@@ -7,6 +7,7 @@ import Error404 from './componentes/Error404';
 import Inicio from './componentes/Inicio';
 import Tienda from './componentes/Tienda';
 import Carrito from './componentes/Carrito';
+
 function App() {
   const productos = [
     { id: 1, nombre: "Producto 1" },
